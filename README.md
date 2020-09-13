@@ -13,3 +13,10 @@
 
 
 <img src= "https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2FE85CCB1C-6171-4AE0-83BD-EA792AB1B7E0.jpeg?v=1599995654269">
+
+
+
+
+
+**Status**
+<img src= "https://github-readme-stats.vercel.app/api?username=cayocb&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
