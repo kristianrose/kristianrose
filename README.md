@@ -1,16 +1,15 @@
-### Hi there 👋
+# Olá, seja bem vindo ao meu perfil 燐
+*Programador e profissional em banco de dados*
 
-<!--
-**cayocb/cayocb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***Meios de contacto***
+- Email: gdgamerbrbet@gmail.com
+- Discord: Cayo#0002
 
-Here are some ideas to get you started:
+### Aulas ON para vocês (MSQL)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Link do site](https://cayocb.github.io/MSQL-1/)
+
+
+
+
+<img src= "https://cdn.glitch.com/4bb6fe78-0917-4ca3-9dd3-aa140f52ff8a%2FE85CCB1C-6171-4AE0-83BD-EA792AB1B7E0.jpeg?v=1599995654269">
