@@ -1,9 +1,9 @@
-# Cayo Prof. 燐
+# Second Prof. 燐
 *Programador e profissional em banco de dados*
 
 ***Meios de contacto***
 - Email: gdgamerbrbet@gmail.com
-- Discord: Cayo#0002
+- Discord: Second47#1337
 
 ### Aulas ON para vocês (MSQL)
 
