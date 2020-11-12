@@ -1,4 +1,4 @@
-<h1 align="center">Eae! Sou o tal de Kristian Rose, aka <a href="https://kristianrose.github.io">kristianrose</a>. 👋</h1>
+<h1 align="center">Eae! Sou o tal de Kristian Rose,  <a href="https://kristianrose.github.io">kristianrose</a>. 👋</h1>
 <h3 align="center"Programador e profissional em banco de dados, cursado na Ironhack.</h3>
 
 - 💜 Estou atualmente trabalhando em **[Twiich Bot](https://kristianrose.github.io)**
