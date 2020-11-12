@@ -1,7 +1,7 @@
 <h1 align="center">Eae! Sou o tal de Kristian Rose,  <a href="https://kristianrose.github.io">kristianrose</a>. 👋</h1>
 <h3 align="center"Programador e profissional em banco de dados, cursado na Ironhack.</h3>
 
-- 💜 Estou atualmente trabalhando em **[Twiich Bot](https://kristianrose.github.io)**
+- 💜 Estou atualmente trabalhando em **[Twitch Bot](https://kristianrose.github.io)**
 - 📂 Minhas aulas online de MSQL **[clique aqui](https://kristianrose.github.io/MSQL-1/)**
 - 🌱Atualmente, estou aprendendo Gulp e Rapid
 - 👯 Estou procurando colabboradores para **[Twitch Bot API indivual testers](https://kristianrose.github.io)**
