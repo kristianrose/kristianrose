@@ -5,6 +5,7 @@
 - 📂 Minhas aulas online de MSQL **[clique aqui](https://kristianrose.github.io/MSQL-1/)**
 - 🌱Atualmente, estou aprendendo Gulp e Rapid
 - 👯 Estou procurando colabboradores para **[Twitch Bot API indivual testers](https://kristianrose.github.io)**
+<h1 align="center>"> [Kristian.ml](https://kristianrose.github.io/kristian/index.html) © 2020</h1>
 
 <h3 align="center">Linguagens e ferramentas</h3>
 <p align="center">
