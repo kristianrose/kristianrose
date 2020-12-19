@@ -24,9 +24,6 @@
 <img src="https://simpleicons.org/icons/node-dot-js.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
 <img src="https://simpleicons.org/icons/gulp.svg" title="Gulp" alt="gulp" width="40" height="40"/>
 </p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=kristianrose&show_icons=true&include_all_commits=true&count_private=true" alt="kristianrose"/></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kristianrose&layout=compact&card_width=445" alt="kristianrose"/></p>
 
 
 
