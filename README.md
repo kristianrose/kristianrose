@@ -10,7 +10,7 @@ Eu sou o K**ristian** R**o**u**se**, um programador full-stack destacado na Iron
 
 ---
 
-#### :sparkles: My followers
+#### :sparkles: Destacado
 
 
 <table>
