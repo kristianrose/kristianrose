@@ -10,24 +10,6 @@ Eu sou o K**ristian** R**o**u**se**, um programador full-stack destacado na Iron
 
 ---
 
-#### :sparkles: Destacado
-
-
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/AlevEve">
-        <img src="https://avatars.githubusercontent.com/u/74690952?s=460&u=590e01854483c64110e0961a65cfac034768ac7f&v=4" width="100px;" alt="AlevEve"/>
-      </a>
-      <br />
-      <a href="https://github.com/AlevEve">AlevEve</a>
-    </td>
-   
-</table>
-
-
----
-
 #### :bar_chart: Análise de desenvolvimento semanal
 
 
