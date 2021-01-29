@@ -1,54 +1,43 @@
-<h1 align="center">Eae! Sou o tal de Kristian Rose,  <a href="https://kristianrose.github.io">kristianrose</a>. 👋</h1>
-<h3 align="center"Programador e profissional em banco de dados, cursado na Ironhack.</h3>
+<img align="right" alt="Kri's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=kristianrose&show_icons=true">
 
-- 💜 Estou atualmente trabalhando em **[Twitch Bot](https://kristianrose.github.io)**
-- 📂 Minhas aulas online de MSQL **[clique aqui](https://kristianrose.github.io/MSQL-1/)**
-- 🌱Atualmente, estou aprendendo Gulp e Rapid
-- 👯 Estou procurando colabboradores para **[Twitch Bot API indivual testers](https://kristianrose.github.io)**
-- [Kristian.ml](https://kristianrose.github.io/kristian/index.html) © 2020
+Eu sou o K**ristian** R**o**u**se**, um programador full-stack destacado na IronHack
 
-<h3 align="center">Linguagens e ferramentas</h3>
-<p align="center">
-<img src="https://simpleicons.org/icons/visualstudiocode.svg" title="Visual Studio Code" alt="code" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/git.svg" title="Git" alt="git" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/github.svg" title="GitHub" alt="github" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/travisci.svg" title="Travis CI" alt="travis" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/gnubash.svg" title="Bash" alt="bash" width="40" height="40"/>
-<br />
-<img src="https://simpleicons.org/icons/lua.svg" title="Lua" alt="lua" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/markdown.svg" title="Markdown" alt="markdown" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/python.svg" title="Python" alt="python" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/java.svg" title="Java" alt="java" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/javascript.svg" title="JavaScript" alt="javascript" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/typescript.svg" title="TypeScript" alt="typescript" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/node-dot-js.svg" title="Node.js" alt="nodejs" width="40" height="40"/>
-<img src="https://simpleicons.org/icons/gulp.svg" title="Gulp" alt="gulp" width="40" height="40"/>
-</p>
+-   :hammer_and_pick: C/Python/Javascript/Qt/GitHub açoes, e um pouco de Assembly/TypeScript
+-   :package: Trabalhando na [Mafalda Anti-Token-Grabber](https://github.com/kristianrose) e mais
+-   :pencil2: Mac OSX / Rose / Oliveira / Desktop / Sublime Text / 
+-   :man: Pronome: ele
+-   :key: GPG key: `863A0F9FA8127FA4`
+
+---
+
+#### :sparkles: My followers
 
 
-
-<h3 align="center">Conecte-se comigo</h3>
-<p align="center">
-<a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-<a href="https://twitter.com/kristianrose" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
-<a href="https://twitch.tv/kristianrose" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
-</p>
-
-
-
-
-
-
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/AlevEve">
+        <img src="https://avatars.githubusercontent.com/u/74690952?s=460&u=590e01854483c64110e0961a65cfac034768ac7f&v=4" width="100px;" alt="AlevEve"/>
+      </a>
+      <br />
+      <a href="https://github.com/AlevEve">Ir1dXD</a>
+    </td>
+   
+</table>
 
 
+---
+
+#### :bar_chart: Análise de desenvolvimento semanal
 
 
+```text
+C++          3 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+Markdown     0 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 % 
+JavaScript   6 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 % 
+JSON         1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+HTML         1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+```
 
 
-
-
-
-
-
-
-
+---
