@@ -1,4 +1,4 @@
-<img align="right" alt="Kri's github stats" width="50%" src="https://d2p8jjwwnx090z.cloudfront.net/853/005/425/-309996980-1t9ooln-k2r3k4bd25p0hap/original/chibisaber.png">
+
 
 Eu sou o K**ristian** R**o**s**e**, um programador full-stack destacado na IronHack
 
