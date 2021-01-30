@@ -9,17 +9,3 @@ Eu sou o K**ristian** R**o**s**e**, um programador full-stack destacado na IronH
 -   :key: Key da Mafalda: `free`
 
 ---
-
-#### :bar_chart: Análise de desenvolvimento semanal
-
-
-```text
-C++          3 hrs 50 mins   ███████░░░░░░░░░░░░░░░░░░   27.43 % 
-Markdown     0 hrs 30 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.65 % 
-JavaScript   6 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.13 % 
-JSON         1 hr 47 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-HTML         1 hr 46 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-```
-
-
----
