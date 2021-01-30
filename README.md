@@ -1,4 +1,4 @@
-<img align="right" alt="Kri's github stats" width="50%" src="https://lh3.googleusercontent.com/proxy/dhd9XgUx1az9x5rF0hyXAvEwRB2Q7EKK9EwQgOX81GfgTiis3JBHeSFnX4jhgsHKULbJsXOeDEdX6shvq323Y9oLpVuq59KLKBNKFKqMTtqz2GR-vaaWi1M5-XNGh7rsrImu_i7CSFupc0iP0rGqyw">
+<img align="right" alt="Kri's github stats" width="50%" src="https://d2p8jjwwnx090z.cloudfront.net/853/005/425/-309996980-1t9ooln-k2r3k4bd25p0hap/original/chibisaber.png">
 
 Eu sou o K**ristian** R**o**s**e**, um programador full-stack destacado na IronHack
 
