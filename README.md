@@ -6,7 +6,7 @@ Eu sou o K**ristian** R**o**s**e**, um programador full-stack destacado na IronH
 -   :package: Trabalhando na [Mafalda Anti-Token-Grabber](https://github.com/kristianrose) e mais
 -   :pencil2: Mac OSX / Rose / Kristian / Desktop / Sublime Text / 
 -   :man: Pronome: ele
--   :key: GPG key: `863A0F9FA8127FA4`
+-   :key: Key da Mafalda: `free`
 
 ---
 
